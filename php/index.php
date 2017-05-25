@@ -41,7 +41,7 @@
 			if($part['photos']){
 				echo "<div>Фото: <br/>";
 				foreach ($part['photos']['part'] as $value) {
-					echo "<img width='200px' src='http://bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
+					echo "<img width='200px' src='https://img.bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
 					// Можно задавать любые размеры фотографий для получения к примеру 400x300
 				}
 				echo "</div>";
@@ -78,7 +78,7 @@
             if($part['photos']){
                 echo "<div>Фото: <br/>";
                 foreach ($part['photos']['img'] as $value) {
-                    echo "<img width='200px' src='http://bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
+                    echo "<img width='200px' src='https://img.bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
                     // Можно задавать любые размеры фотографий для получения к примеру 400x300
                 }
                 echo "</div>";
@@ -134,7 +134,7 @@
         if($part['photos']){
             echo "<div>Фото: <br/>";
             foreach ($part['photos']['img'] as $value) {
-                echo "<img width='200px' src='http://bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
+                echo "<img width='200px' src='https://img.bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
                 // Можно задавать любые размеры фотографий для получения к примеру 400x300
             }
             echo "</div>";
@@ -184,7 +184,7 @@
         if($part['photos']){
             echo "<div>Фото: <br/>";
             foreach ($part['photos']['img'] as $value) {
-                echo "<img width='200px' src='http://bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
+                echo "<img width='200px' src='https://img.bibinet.ru". $part['photos']['path'] . '-' . $value . "_c800x600.jpg'/>";
                 // Можно задавать любые размеры фотографий для получения к примеру 400x300
             }
             echo "</div>";
