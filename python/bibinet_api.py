@@ -78,18 +78,22 @@ contracts_label = {
 		'smo_name': 'Модель',
 		'photos': 'Фото',
 		'sf_name': 'Кузов',
-		'year_period_model': 'Периуд выпуска',
-		'sma_name_ru': 'Марка по русски',
+		'year_period_model': 'Период выпуска',
+		'sma_name_ru': 'Марка по-русски',
 		'spt_name': 'Наименование запчасти',
 		'sup_part_comment': 'Комментарий',
 		'sup_discount': 'Процент скидки',
 		'part_status': 'Статус',
 		'last_edit': 'Дата публикации',
-		'smo_name_ru': 'Модель по русски',
-		'sup_invnn': 'инвентарный номер',
+		'smo_name_ru': 'Модель по-русски',
+		'sup_invnn': 'Инвентарный номер',
 		'id': 'ID товара',
 		'sb_id': 'ID филиала',
-		'price': 'цена'
+		'price': 'Цена',
+		'se_name': 'Двигатель',
+		'position': 'Расположение',
+		'sup_device_code': 'Код производителя',
+		'sup_oem_code': 'OEM код'
 	}
 }
 
